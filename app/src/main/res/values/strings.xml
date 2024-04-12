@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="fullname">Shekhar Suman</string>
+    <string name="title">Application Developer SAP ABAP</string>
+    <string name="contact_number">+91-8873242785</string>
+    <string name="phone_logo">phone_logo</string>
+    <string name="shekhar0050m">\@shekhar0050m</string>
+    <string name="contact_email">shekhar0050m@gmail.com</string>
+</resources>
